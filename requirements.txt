@@ -1,0 +1,5 @@
+ultralytics
+python-multipart
+numpy
+transformers
+tensorflow
