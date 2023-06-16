@@ -8,7 +8,7 @@ This repo contains our Machine Learning Training and Dataset that runs on [Googl
 - ✅[Numpy](https://numpy.org/install/) - used to perform a wide variety of mathematical operations on arrays.
 - ✅[Tensorflow](https://www.tensorflow.org/install) - used as the underlying deep learning library.
 
-## Dataset used🧩
+## Dataset used💾
 - ✅[Kaggle](https://www.kaggle.com/) - used for human and weapon images dataset
 - ✅[Universe Roboflow](https://universe.roboflow.com/) - used for cctv vehicle detection and human cctv images dataset
   
