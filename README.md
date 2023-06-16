@@ -8,8 +8,10 @@ This repo contains our Machine Learning Training and Dataset that runs on [Googl
 - ✅[Numpy](https://numpy.org/install/) - used to perform a wide variety of mathematical operations on arrays.
 - ✅[Tensorflow](https://www.tensorflow.org/install) - used as the underlying deep learning library.
 
-
-
+## Dataset used🧩
+- ✅[Kaggle](https://www.kaggle.com/) - used for human and weapon images dataset
+- ✅[Universe Roboflow](https://universe.roboflow.com/) - used for cctv vehicle detection and human cctv images dataset
+  
 ## Process Flow of Object Detection Development🔃
 ![SaBo smart border security system](https://github.com/C23-PS298/machine-learning/assets/77234852/71e3a80d-ec32-40b1-a1cf-83b73b6e436d)
 
