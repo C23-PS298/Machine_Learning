@@ -1,6 +1,6 @@
 # Bangkit Capstone C23-PS298 Machine Learning Repositories🥷
 Hi folks👋
-This repo contains our RESTful Backend API services that runs on [Google Colab](https://colab.research.google.com/?utm_source=scs-index)
+This repo contains our Machine Learning Training and Dataset that runs on [Google Colab](https://colab.research.google.com/?utm_source=scs-index)
 
 ## Library used🧩
 - ✅[Yolov8 Ultralytics](https://docs.ultralytics.com/) - used as backend framework for our api to run.
